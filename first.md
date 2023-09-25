@@ -1,4 +1,4 @@
-# {{1.Name}}
+# {{2.Name}}
 
 {{API.Description}}
 
